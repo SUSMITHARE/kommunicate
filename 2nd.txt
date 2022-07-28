@@ -1,0 +1,17 @@
+const url = "https://www.kommunicate.io/poweredby?utm_source=https://www.kommunicate.io/&utm_medium=webplugin&utm_campaign=poweredby"
+var url1 = new URL(url);
+var x =  "utm_medium";
+var y = "utm_campaign";
+
+
+function getUrlParameter1(url,param){
+    var a = url1.searchParams.get('utm_medium');
+    console.log(a);
+}
+function getUrlParameter2(url,param){
+    
+    var a = url1.searchParams.get('utm_campaign');
+    console.log(a);
+}
+getUrlParameter1(url,x);
+getUrlParameter2(url,y);

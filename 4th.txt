@@ -1,0 +1,11 @@
+The project i worked on is Blood bank management system
+The project blood bank management system is known to be a pilot project that is designed
+for the blood bank to gather blood from various sources and distribute it to the needy people 
+who have high requirements for it ,and this project made me learn teamspirit  
+we have worked for about 3 months to build this project.
+Mainly building this project brought me a lot of self satisfcation as it could save many peoples life 
+and overcome problems like unavailability of blood during emergencies and can even reduce deaths due 
+to lack of blood during operations, I have worked on the whole frontend part
+the major problems that i have faced is alligning the tags and creating dashboard for the availability of blood representation
+and make a well designed website.
+
